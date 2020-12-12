@@ -16,3 +16,11 @@ DCGAN
 WGAN using CNN 
 ------------
 <center><img src="https://github.com/saswatpp/WGAN-pytorch/blob/master/gifs/WGAN_CNN_60epochs_lr1e3.gif"></center>
+
+DCGAN conditioned with labels
+------------
+<center><img src="https://github.com/saswatpp/WGAN-pytorch/blob/master/gifs/GAN_CNN_MNIST_conditioned.gif"></center>
+
+WGAN using CNN conditioned with labels
+------------
+<center><img src="https://github.com/saswatpp/WGAN-pytorch/blob/master/gifs/WGAN_CNN_conditioned.gif"></center>
